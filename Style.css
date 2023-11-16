@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Inter:wght@300&display=swap');
+
+img{
+    width: 200px;
+    border: 5px aquamarine solid;
+    border-radius: 10px;
+}
+
+article{
+    text-align: center;
+    background-color:rgb(40, 148, 225);
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+h1{
+    font-family: 'Agbalumo';
+    color:white
+}
+p{
+    font-family: 'Inter';
+    color: white;
+    font-weight: bold;
+}
+footer button:nth-child(1){
+    color: rgb(40, 148, 225);
+    font-family: 'Inter';
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 8px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+footer button:nth-child(2){
+    color: rgb(40, 148, 225);
+    font-family: 'Inter';
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 8px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
